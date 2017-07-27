@@ -1,0 +1,20 @@
+{
+  "name": "assets-suppliers-foundation",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Darwin Boaventura <darwinaraujo@ext.cvc.com.br>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "foundation-sites": "^6.4.1"
+  }
+}
